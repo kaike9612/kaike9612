@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🎯 Sobre Mim
 
 Desenvolvedor freelance especializado em **microserviços** e **arquitetura distribuída** com foco em **Java** e **Spring Boot**.
