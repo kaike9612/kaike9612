@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Kaike Souza!
 
-## 🚀 Desenvolvedor Freelance | Especialista em Back-end & Java
+## 🚀 Desenvolvedor Freelance | Com foco em Back-end & Java
 
 *Transformando ideias em soluções robustas e escaláveis*
 
