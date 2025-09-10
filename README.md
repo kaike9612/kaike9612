@@ -39,16 +39,6 @@ Desenvolvedor freelance especializado em **microserviços** e **arquitetura dist
   <img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<h2 align="left">Alguns Dados</h2>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitormigoto&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitormigoto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="135" alt="languages graph"  />
-  
-</div>
-
 ---
 
 ## 🤝 Vamos Conversar?
