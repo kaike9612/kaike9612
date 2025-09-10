@@ -10,7 +10,7 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor freelance especializado em **microserviços** e **arquitetura distribuída** com foco em **Java** e **Spring Boot**.
+Desenvolvedor freelance especializado em **microserviços** e **arquitetura distribuída** com foco em **Java**.
 
 **Expertise:** Arquitetura de Software • Cloud Computing • DevOps • CI/CD
 
