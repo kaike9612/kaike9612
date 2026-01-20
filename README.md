@@ -1,10 +1,3 @@
-<!-- Banner animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Kaike+Souza!;Engenheiro+de+Software+Back-end;Especialista+em+APIs+REST+e+Arquiteturas+Escaláveis;Cloud%2C+Testes+e+Boas+Práticas+de+Código" />
-</p>
-
----
-
 ## 👋 Sobre Mim
 
 Sou **Engenheiro de Software com foco em Back-end e APIs**, especializado na construção de **sistemas escaláveis, performáticos e bem testados**.  
@@ -76,9 +69,3 @@ Atuo com:
 ## ✨ Frase que me define
 
 > "Código limpo não é escrito seguindo regras. Código limpo é escrito por programadores que se importam."
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaike9612&color=2F81F7&style=flat-square" />
-</p>
