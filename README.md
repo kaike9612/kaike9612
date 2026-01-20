@@ -1,49 +1,63 @@
-<div align="center">
-
-# 👋 Olá, eu sou Kaike Souza!
-
-## 🚀 Desenvolvedor Freelance | Com foco em Back-end & Java
-
-*Transformando ideias em soluções robustas e escaláveis*
-
-</div>
-
-## 🎯 Sobre Mim
-
-Desenvolvedor freelance especializado em **microserviços** e **arquitetura distribuída** com foco em **Java**.
-
-**Expertise:** Arquitetura de Software • Cloud Computing • DevOps • CI/CD
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Kaike+Souza!;Engenheiro+de+Software+Back-end;Especialista+em+APIs+REST+e+Arquiteturas+Escaláveis;Cloud%2C+Testes+e+Boas+Práticas+de+Código" />
+</p>
 
 ---
 
-## 🛠️ Tecnológias
+## 👋 Sobre Mim
 
-<div style="display: inline_block">
-  <!-- Reduced icon sizes from 40x50 to 30x35 -->
-  <img align="center" alt="Java" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="HTML5" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Flutter" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Docker" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Redis" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+Sou **Engenheiro de Software com foco em Back-end e APIs**, especializado na construção de **sistemas escaláveis, performáticos e bem testados**.  
+Tenho formação e vivência como **Full Stack Developer**, o que me permite colaborar de ponta a ponta com times de Produto, Design e Engenharia.
+
+Atuo com:
+- Desenvolvimento e evolução de **APIs RESTful**
+- Arquiteturas em **Cloud (AWS)** e ambientes **containerizados**
+- **Testes automatizados**, qualidade de código e observabilidade
+- Integração de sistemas e soluções com **IA e serviços externos**
 
 ---
 
-## 🤝 Vamos Conversar?
+## 🧠 Stack Principal
 
-Estou sempre aberto a novos projetos e oportunidades de colaboração!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,nodejs,aws,docker,postgres,mysql,mongodb,redis,git,github,linux&perline=8" />
+</p>
+
+---
+
+## 🛠️ Competências Técnicas
+
+- **Back-end & APIs:** Desenvolvimento de **APIs RESTful em PHP (Laravel), Java (Spring Boot) e Node.js (Express/NestJS)**  
+- **Arquitetura:** Programação Orientada a Objetos (POO), SOLID, Design Patterns, Clean Code, Microsserviços  
+- **Testes Automatizados:** Testes unitários e de integração, validação de contratos de API e cobertura de código  
+- **Bancos de Dados & SQL:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, modelagem relacional e consultas otimizadas  
+- **Cloud & DevOps:** AWS (Lambda, API Gateway, EC2, RDS, S3, CloudWatch), Docker, CI/CD (GitHub Actions, GitLab CI)  
+- **Versionamento & Colaboração:** Git, GitHub Flow, Pull Requests, Code Review  
+- **Frontend (Diferencial):** React, Next.js, Vue.js, Nuxt.js  
+
+---
+
+## 📌 Projetos em Destaque
+
+> Fixe seus principais repositórios no GitHub e referencie aqui
+
+- 🔹 **API de Gestão Escalável** — Laravel + Docker + PostgreSQL  
+- 🔹 **Plataforma de Integração com IA** — **Node.js (Express/NestJS)** + AWS Lambda + OpenAI  
+- 🔹 **Microsserviços em Java** — Spring Boot + Redis + CI/CD  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaike9612&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaike9612&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🌎 Vamos Conversar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaike-souza-326167a2/" target="_blank">
@@ -57,6 +71,14 @@ Estou sempre aberto a novos projetos e oportunidades de colaboração!
   </a>
 </div>
 
-<div align="center">
-  <i>💡 "Código limpo não é escrito seguindo regras. Código limpo é escrito por programadores que se importam."</i>
-</div>
+---
+
+## ✨ Frase que me define
+
+> "Código limpo não é escrito seguindo regras. Código limpo é escrito por programadores que se importam."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaike9612&color=2F81F7&style=flat-square" />
+</p>
