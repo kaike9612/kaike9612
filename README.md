@@ -14,7 +14,7 @@ Atuo com:
 ## 🧠 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,nodejs,aws,docker,postgres,mysql,mongodb,redis,git,github,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,laravel,python,aws,docker,postgres,mysql,mongodb,redis,git,github,linux&perline=8" />
 </p>
 
 ---
