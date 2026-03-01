@@ -41,15 +41,6 @@ Atuo com:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaike9612&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaike9612&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🌎 Vamos Conversar?
 
 <div align="center">
